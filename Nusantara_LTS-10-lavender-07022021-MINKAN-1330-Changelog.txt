@@ -1,0 +1,50 @@
+====================
+     02-07-2021
+====================
+   * build/make
+4e69730 Bump Security String to 2021-02-05
+   * frameworks/base
+68de626d [SettingsProvider] fix font size scale validator
+   * frameworks/native
+6dd5d9262 commonsys-intf: display: Add extension interfaces
+66e3279b7 SF: update mInputFlinger on main thread
+   * packages/apps/Bluetooth
+ef01c45 Check permission before sending batch scan result
+   * packages/apps/Settings
+6f050e1 Settings: Update logo for LTS version
+   * system/core
+eb5ace1 storaged: protect global proto_loaded
+   * vendor/nusantara
+3e62698 Branding: LTS for Android 10
+
+
+====================
+     02-06-2021
+====================
+   * external/chromium-webview
+d8c9c41 Update Chromium Webview to 88.0.4324.152
+
+
+====================
+     02-05-2021
+====================
+   * external/libavc
+6900511 decoder: Update check for first mb in slice
+
+
+====================
+     02-04-2021
+====================
+   * libcore
+282e3cf Merge tag 'android-security-10.0.0_r51' of https://android.googlesource.com/platform/libcore into 10
+   * packages/providers/MediaProvider
+4970a42 Handle 64-bit and end-of-file box lengths in IsoInterface
+
+
+====================
+     02-03-2021
+====================
+   * tools/repohooks
+f1e0b3b android_test_mapping_format: drop Python 2 support
+
+
