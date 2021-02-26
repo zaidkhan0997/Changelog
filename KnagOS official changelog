@@ -1,0 +1,26 @@
+Device Changelogs-:
+- Initial Android 11 Kangos Build
+- Enable SmartCharging
+- Moved XiaomiParts to System/XiaomiParts
+- Audio improvements
+- Fix Deepsleep while Bluetooth is turned on
+- Enable QPower and Deep sleep at the same time
+- Cleanup Wifi and Tether rro_overlays
+- Cleanup Wifi packages
+- Address Camera Denials
+- Address Radio Denials
+- GPS Cleanup
+- Enable VR Hal
+- Update Build FP for February SPL
+- Address moar denials
+- Enable Advance Logcat Debugging
+- Fix ctl.interface_start error spams
+- Enable New Google Keyboard Theme
+- Enable Google Keyboard Rounded UI
+- SELinux Enforcing
+
+
+Notes -:
+- flame Gapps Recommend
+- Clean Flash Required
+- Use Latest FW
