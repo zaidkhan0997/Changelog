@@ -1,0 +1,24 @@
+Device Changelogs-:
+- Source Upstream
+- Audio improvements
+- Fix Deepsleep while Bluetooth is turned on
+- Enable QPower and Deep sleep at the same time
+- Cleanup Wifi and Tether rro_overlays
+- Cleanup Wifi packages
+- Address Camera Denials
+- Address Radio Denials
+- GPS Cleanup
+- Enable VR Hal
+- Update Build FP for February SPL
+- Address moar denials
+- Enable Advance Logcat Debugging
+- Fix ctl.interface_start error spams
+- Remove New Google Keyboard Theme
+- Remove Google Keyboard Rounded UI
+- SELinux Enforcing
+- Other fixes and improvements
+- Nexus v9 HMP Default But Name Changed 
+- Fix qs Rows 
+
+
+Thanks to @Groovybanana21 , @eWvyW for testing
