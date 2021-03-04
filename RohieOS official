@@ -1,0 +1,22 @@
+Device Changelogs:-
+- Sync With latest Source 
+- Still January SP idk why 🤔
+- Fix Deepsleep while Bluetooth is turned on
+- Enable QPower and Deep sleep at the same time
+- Cleanup Wifi and Tether rro_overlays
+- Cleanup Wifi packages
+- Address Camera Denials
+- Address Radio Denials
+- GPS Cleanup
+- Enable VR Hal
+- Update Build FP from Redfin 
+- Address moar denials
+- Enable Advance Logcat Debugging
+- Fix ctl.interface_start error spams
+- Enable New Google Keyboard Theme
+- Enable Google Keyboard Rounded UI
+- Update wfd blobs from LA.UM.9.6.2.r1-03300-89xx.0
+- SELinux Enforcing
+
+
+Credit:- @zGonzah for testing amd big thanks to me for making hehe 😂
