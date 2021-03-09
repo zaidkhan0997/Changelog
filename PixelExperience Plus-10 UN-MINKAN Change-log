@@ -1,0 +1,16 @@
+Device Change-log;-
+
+- Initial Build
+- Enable f2fs Support
+- Added New Xiaomi Part 4.5 
+- Move Xiaomi Parts To System
+- Remove Camera hal Option From Xiaomi Parts
+- Enable Zram Write Back Job
+- Improve Ram Management For 3gb Users 
+- Added New Gboard Themes 
+- Added Gboard Rounded UI
+- Other improvements 
+- Selinux Enforcing
+
+Thanks to @Hazama25 (DT)
+Thanks to @GamanBadra , @Groovybanana21 for non stop testing
