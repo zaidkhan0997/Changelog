@@ -1,0 +1,16 @@
+Changeloge:- 
+- March security patch
+- Implemented new Face Unlock, with support for 3rd apps
+- Added ability to select custom ringtone for 2nd sim card
+- Added support for NTFS/EXFAT on USB Disks and sdcard
+- Improved animations when unlocking
+- Add support for Bluetooth SBC Dual Channel
+- Fix Apn Not Set By Default
+- Fix Call Ended For Jio Users 
+- Added New Xiaomi Parts 4.5 
+- Move Xiaomi Parts To System 
+- Improve Ram Management 
+- Remove Camera Hal Option From Xiaomi Part
+- Others improvements
+
+Thanks to me and @Groovybanana21 @v1ack @Nivmal for test
